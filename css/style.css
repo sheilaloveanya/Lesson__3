@@ -1,0 +1,34 @@
+div {
+	color: red;
+}
+
+.text {
+	color: blue;
+}
+.span {
+	color: blueviolet;
+}
+.text-pink {
+	color: palevioletred;
+}
+#top {
+	color: gold;
+}
+div.text {
+	color: aquamarine;
+}
+.lesson.text {
+	color: green;
+}
+.text p {
+	color: blueviolet;
+}
+.text > p {
+	color: navy;
+}
+.text ~ p {
+	color: blanchedalmond;
+}
+.text + p {
+	color: brown;
+}
